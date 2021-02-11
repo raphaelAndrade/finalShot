@@ -518,7 +518,7 @@ jQuery(document).ready(function($) {
 
 	$.instagramFeed({
 		// Your Instagram Username here:
-		username: '',
+		username: 'shotsambado',
 		callback: function(data){
 			var items = data.edge_owner_to_timeline_media.edges,
 				items_max_count = (items.length < 5) ? items.length : 5,
