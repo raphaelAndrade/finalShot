@@ -1,9 +1,9 @@
 /* ----------------------------
 
-	Project:	Symphonius
+	Project:	ShotSambado
 	Version:	1.0.3
-	Author:     Nika Vasilyeva
-	Website:    http://themeforest.net/user/the-nika/
+	Author:     BCE- Path for all
+	Website:    http://www.bcepathforall.com
 
 -------------------------------
 
@@ -576,3 +576,4 @@ jQuery(document).ready(function($) {
 	});
 
 });
+
