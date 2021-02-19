@@ -576,4 +576,3 @@ jQuery(document).ready(function($) {
 	});
 
 });
-
