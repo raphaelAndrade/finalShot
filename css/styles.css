@@ -11,6 +11,10 @@
   padding: 30px !important;
 }
 
+.backgroundCover {
+  background-size: cover !important;
+}
+
 
 /* ----------------------------
 
