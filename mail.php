@@ -4,9 +4,9 @@
 
 if (!empty($_POST)) {
 
-	$receive_email = '';
+	$receive_email = 'contact@shotsambado.ca';
 	$subject = 'New message from yourdomain.com';
-	$reply_to_email = 'raphaelsantosdesigner@gmail.com';
+	$reply_to_email = 'contact@shotsambado.ca';
 	$message = '';
 		
 	$headers = array(

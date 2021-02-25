@@ -576,3 +576,8 @@ jQuery(document).ready(function($) {
 	});
 
 });
+
+
+$(document).ready(function(){
+	$(".upperCase span").hide()
+})
