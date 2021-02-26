@@ -15,9 +15,11 @@
   background-size: cover !important;
 }
 
-.upperCase {
-  text-transform: uppercase !important;
+.aline {
+  text-transform: uppercase !important;;
 }
+
+
 
 
 /* ----------------------------
